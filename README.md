@@ -19,9 +19,6 @@
 ## 📸 Screenshots
 <img width="949" height="871" alt="image" src="https://github.com/user-attachments/assets/8f5cfa08-a1e5-48d7-9bc9-a72acd70041d" />
 
-### Main Interface
-![Interface](https://github.com/joybaratix/lesson-planning-ai/blob/main/docs/interfacepage.png)
-
 ### Generated Lesson Plan  
 ![Output](https://github.com/joybaratix/lesson-planning-ai/blob/main/docs/AI_Lesson_Plan_Generator.pdf)
 ## 🚀 Quick Start
