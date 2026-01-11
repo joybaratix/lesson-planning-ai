@@ -17,13 +17,13 @@
 - 📱 **Responsive Design**: Works on desktop and mobile
 
 ## 📸 Screenshots
+<img width="949" height="871" alt="image" src="https://github.com/user-attachments/assets/8f5cfa08-a1e5-48d7-9bc9-a72acd70041d" />
 
 ### Main Interface
-![Interface](https://via.placeholder.com/800x400.png?text=AI+Lesson+Plan+Generator+Interface)
+![Interface](docs/images/interface.png)
 
-### Generated Lesson Plan
-![Output](https://via.placeholder.com/800x400.png?text=Structured+Lesson+Plan+Output)
-
+### Generated Lesson Plan  
+![Output](docs/images/output.pdf)
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -34,5 +34,5 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/lesson-planning-ai.git
+git clone git clone https://github.com/joybaratix/lesson-planning-ai.git
 cd lesson-planning-ai
